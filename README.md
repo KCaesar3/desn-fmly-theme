@@ -6,4 +6,4 @@ VS Code theme inspired by the DESN FMLY
 
 ## Sources
 * [Theme Studio] (https://themes.vscode.one)
-* [Enhanced Material] ()
+* [Enhanced Material] (https://themes.vscode.one/theme/Vonozar/hwd32V8D)
